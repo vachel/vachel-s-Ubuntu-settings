@@ -1,0 +1,1 @@
+plink -C -N -D 127.0.0.1:6666 zzy@sicily.3322.org -pw woshihaoren
